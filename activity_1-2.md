@@ -6,13 +6,8 @@ f'(x) = 4x^3 - 1 \\
 x_0 = 1 \\
 x_0 = 2 \\
 x_0 = 100 \\
-\end{aligned}
-$$
-
-For $x_0 = 1$,
-
-$$
-\begin{aligned}
+\\
+x_0 = 1
 x_{n+1} = x_n - \frac{f(x_n)}{f\rq(x_n)} \\ \\
 x_1 = 1 - \frac{f(1)}{f\rq(1)} = 4.3333 \\
 x_2 = 4.3333 - \frac{f(4.3333)}{f\rq(4.3333)} \approx 3.2908
